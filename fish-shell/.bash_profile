@@ -2,6 +2,6 @@
 # be updated to alleviate that problem
 if [ "$SHELL" == "/bin/bash" ]
 then
-    export SHELL="/usr/bin/fish" # change with the actual location of `fish`
+    export SHELL="/usr/bin/fish" # replace with the actual location of `fish`
     exec /usr/bin/fish -l
 fi
