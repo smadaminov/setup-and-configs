@@ -21,6 +21,7 @@ Roadmap
 Some things I definitely need to eventually add here
 
 <ol>
+<li>Add `dotfiles` alias to track changes to the dotfiles [look here](https://medium.com/toutsbrasil/how-to-manage-your-dotfiles-with-git-f7aeed8adf8b).</li>
 <li>nvim config.</li>
 <li>List of libraries I want to on have machines I use.</li>
 <li>List of software I want to on have machines I use, e.g., Ruby.</li>
